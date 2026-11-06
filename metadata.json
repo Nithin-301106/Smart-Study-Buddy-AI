@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Buddy AI",
+  "description": "An AI-powered learning assistant for 1st and 2nd-year college students featuring notes generation, concept explanation, interactive quizzes, practice questions, code comprehension, and study schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
